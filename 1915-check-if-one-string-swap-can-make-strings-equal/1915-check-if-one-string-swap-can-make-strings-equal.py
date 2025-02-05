@@ -1,13 +1,20 @@
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
-        if sorted(s1) != sorted(s2):
-            return False
         if s1 == s2:
             return True
-        cnt = 0
-        for i in range(len(s1)):
-            if s1[i] != s2[i]:
-                cnt +=1
-        if cnt != 2:
-            return False
-        return True
+
+        m = len(s1)
+        n = len(s2)
+
+        mismatches = 0
+        mismatch = []
+        pos = 0
+        while pos < m:
+            if s1[pos] != s2[pos]:
+                mismatch.append(s1[pos])
+                mismatch.append(s2[pos])
+                mismatches += 1
+            pos += 1
+        if len(mismatch) == 4:
+            return mismatch[0] == mismatch[3] and mismatch[1] == mismatch[2]
+        return False
