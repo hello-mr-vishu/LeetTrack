@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
