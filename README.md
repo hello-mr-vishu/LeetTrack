@@ -19,6 +19,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -29,10 +30,12 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Array
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Stack
 |  |
 | ------- |
