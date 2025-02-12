@@ -18,12 +18,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 ## Counting
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
