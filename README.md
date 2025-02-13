@@ -8,6 +8,7 @@
 | [0182-duplicate-emails](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0584-find-customer-referee) |
+| [0619-biggest-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1292-immediate-food-delivery-ii) |
