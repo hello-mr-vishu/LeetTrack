@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Stack
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
