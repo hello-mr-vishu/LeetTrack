@@ -18,6 +18,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1625-group-sold-products-by-the-date) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
