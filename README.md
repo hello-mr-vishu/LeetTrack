@@ -22,6 +22,7 @@
 | [1734-bank-account-summary-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1837-daily-leads-and-partners) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
