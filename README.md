@@ -55,6 +55,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0228-summary-ranges) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
@@ -81,4 +82,20 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
