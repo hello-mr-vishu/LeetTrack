@@ -61,6 +61,7 @@
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0228-summary-ranges) |
+| [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -84,6 +85,7 @@
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
+| [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
@@ -119,8 +121,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
+| [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 <!---LeetCode Topics End-->
