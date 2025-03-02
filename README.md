@@ -38,6 +38,7 @@
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
