@@ -62,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Graph
 |  |
@@ -150,4 +153,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0210-course-schedule-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
