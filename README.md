@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0057-insert-interval) |
@@ -141,6 +142,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Graph
