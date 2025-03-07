@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0057-insert-interval) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
