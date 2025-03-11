@@ -39,6 +39,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -101,6 +103,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
+| [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Recursion
 |  |
 | ------- |
