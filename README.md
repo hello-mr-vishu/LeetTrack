@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -52,6 +53,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -70,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -95,6 +98,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -128,11 +132,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -171,4 +177,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0046-permutations) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
