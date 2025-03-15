@@ -72,6 +72,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Recursion
@@ -204,4 +206,12 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
