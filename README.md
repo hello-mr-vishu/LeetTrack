@@ -153,6 +153,7 @@
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1585-the-kth-factor-of-n) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Recursion
 |  |
@@ -214,4 +215,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
+| [1585-the-kth-factor-of-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
