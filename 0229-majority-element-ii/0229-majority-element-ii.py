@@ -1,8 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        ctr = collections.Counter()
-        for n in nums:
-            ctr[n] += 1
-            if len(ctr) == 3:
-                ctr -= collections.Counter(set(ctr))
-        return [n for n in ctr if nums.count(n) > len(nums)/3]
+        counts = {}
+        for num in nums:
+            counts[num] = counts.get(num, 0) + 1
+
+        result = []
+        for num, count in counts.items():
+            if count > len(nums) // 3:
+                result.append(num)
+
+        return result
