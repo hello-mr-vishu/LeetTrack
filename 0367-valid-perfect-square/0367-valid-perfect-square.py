@@ -1,7 +1,9 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         i = 1
-        while (num>0):
-            num -= i
-            i += 2       
-        return num == 0
+        while i ** 2 <= num:
+            if i ** 2 == num:
+                return True
+            else:
+                i += 1
+        return False
