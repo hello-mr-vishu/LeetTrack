@@ -162,6 +162,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1585-the-kth-factor-of-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1585-the-kth-factor-of-n) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
