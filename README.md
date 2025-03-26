@@ -33,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
@@ -75,6 +76,7 @@
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
@@ -143,6 +145,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
