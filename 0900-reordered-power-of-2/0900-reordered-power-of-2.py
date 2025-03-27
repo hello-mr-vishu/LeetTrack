@@ -1,9 +1,7 @@
 class Solution:
     def reorderedPowerOf2(self, n: int) -> bool:
-        digits = Counter(str(n))
-        
+        occurrence = Counter(str(n))
         for i in range(30):
-            powerOfTwo = str(1 << i)
-            if digits == Counter(powerOfTwo):
+            if (occurrence == Counter(str(2**i))):
                 return True
         return False
