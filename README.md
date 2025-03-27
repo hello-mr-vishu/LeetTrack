@@ -42,6 +42,7 @@
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -120,6 +122,7 @@
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
@@ -169,6 +172,7 @@
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1585-the-kth-factor-of-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1585-the-kth-factor-of-n) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
@@ -231,6 +235,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
