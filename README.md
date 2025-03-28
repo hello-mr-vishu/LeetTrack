@@ -179,6 +179,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -241,4 +242,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1585-the-kth-factor-of-n) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
