@@ -8,11 +8,11 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if not head or head.next == None:
             return False
-        hashset = set()
-        curr = head
-        while curr:
-            if curr.next in hashset:
+        slow_pointer = head
+        fast_pointer = head
+        while fast_pointer and fast_pointer.next:
+            slow_pointer = slow_pointer.next
+            fast_pointer = fast_pointer.next.next
+            if slow_pointer == fast_pointer:
                 return True
-            hashset.add(curr.next)
-            curr = curr.next
         return False
