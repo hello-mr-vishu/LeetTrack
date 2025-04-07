@@ -37,6 +37,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +209,7 @@
 | [0141-linked-list-cycle](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
@@ -273,6 +275,7 @@
 | [0141-linked-list-cycle](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0328-odd-even-linked-list) |
