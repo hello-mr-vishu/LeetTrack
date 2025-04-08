@@ -180,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
@@ -191,6 +192,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0206-reverse-linked-list) |
@@ -270,6 +272,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0141-linked-list-cycle) |
