@@ -47,6 +47,7 @@
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -100,6 +101,7 @@
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -286,6 +288,7 @@
 | [0206-reverse-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0328-odd-even-linked-list) |
+| [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
