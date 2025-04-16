@@ -43,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
@@ -97,6 +98,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
@@ -188,6 +190,7 @@
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
+| [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
