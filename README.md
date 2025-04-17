@@ -192,6 +192,7 @@
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 | [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0523-continuous-subarray-sum) |
+| [0755-reach-a-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
@@ -245,6 +246,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
+| [0755-reach-a-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0755-reach-a-number) |
 ## Backtracking
 |  |
 | ------- |
