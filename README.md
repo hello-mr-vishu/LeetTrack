@@ -106,6 +106,7 @@
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
+| [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -162,6 +163,7 @@
 | [0207-course-schedule](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
