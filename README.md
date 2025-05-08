@@ -155,6 +155,7 @@
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -310,4 +311,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
