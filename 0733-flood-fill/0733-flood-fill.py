@@ -20,18 +20,6 @@ class Solution:
                     q.append((nx,ny))
         return image
 
-
-
-
-
-
-
-
-
-
-
-
-
     # dfs
     #     if image[sr][sc] == color:
     #         return image        
