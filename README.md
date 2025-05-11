@@ -104,6 +104,7 @@
 | [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
@@ -150,6 +151,7 @@
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Depth-First Search
@@ -167,6 +169,7 @@
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
