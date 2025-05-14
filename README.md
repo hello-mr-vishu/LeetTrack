@@ -112,6 +112,7 @@
 | [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -165,6 +166,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0130-surrounded-regions](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +195,7 @@
 | [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
