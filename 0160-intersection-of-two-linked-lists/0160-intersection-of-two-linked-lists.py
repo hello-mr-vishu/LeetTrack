@@ -12,35 +12,44 @@ class Solution:
         # print(headB)
         if not headA or not headB:
             return None
-        
-        def get_len(ptr):
-            cnt = 0
-            while ptr:
-                cnt +=1
-                ptr = ptr.next
-            return cnt 
-
-        lenA = get_len(headA)
-        lenB = get_len(headB)
-        print(lenA)
-        print(lenB)
 
         ptrA = headA
         ptrB = headB
 
-        if lenA>lenB:
-            for _ in range(lenA-lenB):
-                ptrA = ptrA.next
-        else:
-            for _ in range(lenB-lenA):
-                ptrB = ptrB.next
-        while ptrA and ptrB:
-            if ptrA == ptrB:
-                return ptrA
-            ptrA = ptrA.next
-            ptrB = ptrB.next
-            
-        return None
+        while ptrA != ptrB:
+            ptrA = ptrA.next if ptrA else headB
+            ptrB = ptrB.next if ptrB else headA
+
+        return ptrA
+        
+        # def get_len(ptr):
+        #     cnt = 0
+        #     while ptr:
+        #         cnt +=1
+        #         ptr = ptr.next
+        #     return cnt 
+
+        # lenA = get_len(headA)
+        # lenB = get_len(headB)
+        # print(lenA)
+        # print(lenB)
+
+        # ptrA = headA
+        # ptrB = headB
+
+        # if lenA>lenB:
+        #     for _ in range(lenA-lenB):
+        #         ptrA = ptrA.next
+        # else:
+        #     for _ in range(lenB-lenA):
+        #         ptrB = ptrB.next
+        # while ptrA and ptrB:
+        #     if ptrA == ptrB:
+        #         return ptrA
+        #     ptrA = ptrA.next
+        #     ptrB = ptrB.next
+
+        # return None
 
 
 
