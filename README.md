@@ -86,6 +86,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -143,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
@@ -246,6 +248,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0061-rotate-list) |
