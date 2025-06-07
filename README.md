@@ -16,6 +16,7 @@
 | [0608-tree-node](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0608-tree-node) |
 | [0619-biggest-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1182-game-play-analysis-iv) |
