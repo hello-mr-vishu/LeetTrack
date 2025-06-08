@@ -77,6 +77,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
+| [2887-sort-vowels-in-a-string](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -162,6 +163,7 @@
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2887-sort-vowels-in-a-string](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
