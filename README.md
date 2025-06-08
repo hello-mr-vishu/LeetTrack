@@ -107,6 +107,7 @@
 | [0136-single-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
@@ -289,6 +290,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 | [0755-reach-a-number](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0755-reach-a-number) |
