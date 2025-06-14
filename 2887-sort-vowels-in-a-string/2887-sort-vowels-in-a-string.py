@@ -11,15 +11,17 @@ class Solution:
         #     hm[ord(vowels[i])] = vowels[i]
         vow = []
         pos = []
-
         for i , ch in enumerate(s):
             if ch.lower() in {'a','e','i','o','u'}:
                 vow.append(ch)
                 pos.append(i)
-        print(vow)
+        # print(vow)
         vow.sort()
-        print(vow)
+        # print(vow)
         ans = list(s)
+        # print(ans)
+        print(zip(pos,vow))
         for i , v in zip(pos,vow):
             ans[i]=v
+            # print(ans)
         return ''.join(ans)
