@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0367-valid-perfect-square) |
 | [0447-number-of-boomerangs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0447-number-of-boomerangs) |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
