@@ -5,15 +5,25 @@ class Solution:
             return 0
         if n==1:
             return nums[0]
-        dp = [0]*(n+1)
-        dp[0] = nums[0]
-        dp[1] = max(nums[0],nums[1])
-        # res = 0
+        last = max(nums[0],nums[1])
+        secondlast = nums[0]
         for i in range(2,n):
-            pick = nums[i] + dp[i-2]   # (rob current + skip previous)
-            notpick = 0 + dp[i-1]
-            dp[i] = max(pick,notpick)
-        return dp[n-1]
+            pick = nums[i]+secondlast
+            notpick = last
+            curr = max(pick,notpick)
+            secondlast = last
+            last = curr
+        return last
+        
+        # dp = [0]*(n+1)
+        # dp[0] = nums[0]
+        # dp[1] = max(nums[0],nums[1])
+        # # res = 0
+        # for i in range(2,n):
+        #     pick = nums[i] + dp[i-2]   # (rob current + skip previous)
+        #     notpick = 0 + dp[i-1]
+        #     dp[i] = max(pick,notpick)
+        # return dp[n-1]
 
         # n = len(nums)
         # dp = [-1]*(n)
