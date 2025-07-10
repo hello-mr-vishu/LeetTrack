@@ -1,15 +1,29 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        # Tabulation
-        dp = [[0 for _ in range(n)] for _ in range(m)]
-        
-        for i in range(m):
+        # one array for previous row 
+        # one array for the current row
+        prev = [1]*n
+        for i in range(1,m):
+            cur = [0]*n
             for j in range(n):
-                if i==0 or j ==0:
-                    dp[i][j]=1
+                if j == 0:
+                    cur[j] = 1
                 else:
-                    dp[i][j] =  dp[i-1][j] + dp[i][j-1]
-        return dp[m-1][n-1]
+                    cur[j] = cur[j-1] + prev[j]
+            prev = cur
+        return prev[n-1]
+
+
+        # Tabulation
+        # dp = [[0 for _ in range(n)] for _ in range(m)]
+        
+        # for i in range(m):
+        #     for j in range(n):
+        #         if i==0 or j ==0:
+        #             dp[i][j]=1
+        #         else:
+        #             dp[i][j] =  dp[i-1][j] + dp[i][j-1]
+        # return dp[m-1][n-1]
         
         # Memo
         # def noofways(i,j):
