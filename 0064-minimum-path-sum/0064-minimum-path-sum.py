@@ -1,6 +1,6 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        # Taulation
+        # Tabulation
         r = len(grid)
         c = len(grid[0])
         dp = [[0 for _ in range(c)] for _ in range(r)]
@@ -14,9 +14,6 @@ class Solution:
                     left = dp[i][j - 1] if j > 0 else float('inf')
                     dp[i][j] = grid[i][j] + min(up, left)
         return dp[r-1][c-1]
-
-
-
 
         # Memoization
         # def minPath(r, c):
