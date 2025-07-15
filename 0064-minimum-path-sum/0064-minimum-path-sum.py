@@ -1,5 +1,23 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
+        r = len(grid)
+        c = len(grid[0])
+        
+        dp = [0] * c
+        
+        for i in range(r):
+            new_dp = [0] * c
+            for j in range(c):
+                if i == 0 and j == 0:
+                    new_dp[j] = grid[0][0]
+                else:
+                    up = dp[j] if i > 0 else float('inf')
+                    left = new_dp[j - 1] if j > 0 else float('inf')
+                    new_dp[j] = grid[i][j] + min(up, left)
+            dp = new_dp
+        
+        return dp[c - 1]        
+        
         # Tabulation
         r = len(grid)
         c = len(grid[0])
