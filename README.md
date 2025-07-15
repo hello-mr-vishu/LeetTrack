@@ -101,6 +101,7 @@
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
