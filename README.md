@@ -131,6 +131,7 @@
 | [0797-rabbits-in-forest](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0835-linked-list-components) |
 | [0946-smallest-range-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0946-smallest-range-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1364-tuple-with-same-product) |
@@ -184,6 +185,7 @@
 | [0213-house-robber-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0740-delete-and-earn) |
+| [0967-minimum-falling-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0967-minimum-falling-path-sum) |
 | [2348-count-number-of-texts](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2348-count-number-of-texts) |
 ## Depth-First Search
 |  |
@@ -226,6 +228,7 @@
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1073-number-of-enclaves) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/hello-mr-vishu/LeetTrack/tree/master/2585-delete-greatest-value-in-each-row) |
