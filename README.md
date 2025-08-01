@@ -147,6 +147,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
 ## Simulation
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0210-course-schedule-ii) |
@@ -382,10 +384,12 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
 |  |
