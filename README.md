@@ -147,6 +147,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/hello-mr-vishu/LeetTrack/tree/master/3447-clear-digits) |
@@ -196,6 +197,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
@@ -384,11 +386,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
