@@ -11,6 +11,24 @@ class Solution:
                 return True
             if not p or not q:
                 return False
+            q1 = deque([p])
+            q2 = deque([q])
 
-            return (p.val==q.val and check(p.left,q.left) and check(p.right,q.right))
+            while q1 and q2:
+                n1= q1.popleft()
+                n2 = q2.popleft()
+
+                if n1.val != n2.val:
+                    return False
+                if n1.left and n2.left:
+                    q1.append(n1.left)
+                    q2.append(n2.left)
+                elif n1.left or n2.left:
+                    return False
+                if n1.right and n2.right:
+                    q1.append(n1.right)
+                    q2.append(n2.right)
+                elif n1.right or n2.right:
+                    return False
+            return True
         return check(p,q)
