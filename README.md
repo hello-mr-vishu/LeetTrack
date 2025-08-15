@@ -55,6 +55,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -173,6 +175,7 @@
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0389-find-the-difference) |
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
