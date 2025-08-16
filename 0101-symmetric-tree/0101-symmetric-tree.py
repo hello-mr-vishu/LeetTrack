@@ -8,12 +8,22 @@ class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root :
             return True
-
-        def ismirror(ltree,rtree):
-            if not ltree and not rtree:
-                return True
-            if not ltree or not rtree :
+        s1 = []
+        s2 = []
+        s1.append(root.left)
+        s2.append(root.right)
+        while s1 and s2:
+            node1 = s1.pop()
+            node2 = s2.pop()
+            if not node1 and not node2:
+                continue
+            if not node1 or not node2:
                 return False
-            return (ltree.val == rtree.val and ismirror(ltree.left,rtree.right) and ismirror(ltree.right,rtree.left))
-        
-        return ismirror(root.left,root.right)
+            if node1.val != node2.val:
+                return False
+            s1.append(node1.left)
+            s2.append(node2.right)
+            s1.append(node1.right)
+            s2.append(node2.left)
+
+        return len(s1)==0 and len(s2)==0
