@@ -1,16 +1,21 @@
 class Solution:
-    def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        seen = set()
-        def dfs(node):
-            for neighbour, adj in enumerate(isConnected[node]):
-                if adj and neighbour not in seen:
-                    seen.add(neighbour)
-                    dfs(neighbour)        
-        v = len(isConnected[0])
-        # print(v)
-        ans = 0
-        for i in range(v):
-            if i not in seen:
-                dfs(i)
-                ans+=1
-        return ans
+    def findCircleNum(self, isconn: List[List[int]]) -> int:
+        row = len(isconn)
+        # col = len(i[0])
+        visited = set()
+        def bfs(node):
+            while q:
+                node = q.popleft()
+                for neighbour in range(row):
+                    if isconn[node][neighbour] == 1 and neighbour not in visited:
+                        visited.add(neighbour)
+                        q.append(neighbour)
+        
+        province = 0
+        for city in range(row):
+            if city not in  visited:
+                q = deque([city])
+                visited.add(city)
+                bfs(city)
+                province +=1
+        return province
