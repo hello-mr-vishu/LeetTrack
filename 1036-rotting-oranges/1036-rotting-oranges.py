@@ -1,30 +1,29 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        q = deque()
-        time, fresh = 0, 0
-        rows, cols = len(grid), len(grid[0])
+        n = len(grid)
+        m = len(grid[0])
+        directions = [[1,0],[0,1],[-1,0],[0,-1]]
+        def dfs(i,j,time):
+            for dir in directions:
+                x = i+dir[0]
+                y = j+dir[1]
+                if 0 <= x < n and 0 <= y < m:
+                    if grid[x][y] == 1 or (grid[x][y] > time + 1):
+                        grid[x][y] = time + 1
+                        dfs(x, y, time + 1)
         
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == 1:
-                    fresh += 1
-                elif grid[i][j] == 2:
-                    q.append((i, j))
-        
-        directions = [[0,1],[0,-1],[1,0],[-1,0]]
-        
-        while q and fresh > 0:
-            for _ in range(len(q)):
-                i, j = q.popleft()
-                for dr, dc in directions:
-                    row, col = i + dr, j + dc
-                    if 0 <= row < rows and 0 <= col < cols and grid[row][col] == 1:
-                        grid[row][col] = 2
-                        q.append((row, col))
-                        fresh -= 1
-            time += 1
-        
-        return time if fresh == 0 else -1
+        rotten = set()
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == 2:
+                    dfs(i,j,2)
+        minutes = 0
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == 1: 
+                    return -1
+                minutes = max(minutes, grid[i][j])
+
+        return minutes - 2 if minutes > 0 else 0
+
+    
