@@ -2,28 +2,31 @@ class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         n = len(grid)
         m = len(grid[0])
-        directions = [[1,0],[0,1],[-1,0],[0,-1]]
-        def dfs(i,j,time):
-            for dir in directions:
-                x = i+dir[0]
-                y = j+dir[1]
-                if 0 <= x < n and 0 <= y < m:
-                    if grid[x][y] == 1 or (grid[x][y] > time + 1):
-                        grid[x][y] = time + 1
-                        dfs(x, y, time + 1)
-        
-        rotten = set()
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 2:
-                    dfs(i,j,2)
-        minutes = 0
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 1: 
-                    return -1
-                minutes = max(minutes, grid[i][j])
+        # directions = [[1,0],[0,1],[-1,0],[0,-1]]
+        directions = [(1,0),(0,1),(-1,0),(0,-1)]
+        def bfs(grid):
+            q = deque()
+            fresh = 0
+            for i in range(n):
+                for j in range(m):
+                    if grid[i][j] == 2:
+                        q.append((i,j))
+                    elif grid[i][j] ==1:
+                        fresh += 1
+            elapsedtime = 0
 
-        return minutes - 2 if minutes > 0 else 0
+            while q and fresh >0:
+                elapsedtime +=1
+                for _ in range(len(q)):
+                    i,j = q.popleft()
 
-    
+                    for dir in directions:
+                        x = i +dir[0]
+                        y = j +dir[1]
+                        if 0<=x and x<n and y>=0 and y<m and grid[x][y] ==1:
+                            grid[x][y] = 2
+                            fresh -= 1
+                            q.append((x,y))
+            
+            return elapsedtime if fresh ==0  else -1
+        return bfs(grid)
