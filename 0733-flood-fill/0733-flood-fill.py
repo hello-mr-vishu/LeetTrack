@@ -6,16 +6,17 @@ class Solution:
         original = image[sr][sc]
         if original == color:
             return image
-        # image[sr][sc] = color
-        q = deque()
-        q.append((sr,sc))
-        while q:
-            i,j = q.popleft()
-            if image[i][j] == original:
-                image[i][j] = color
-                for dx,dy in directions:
-                    x = i + dx
-                    y = j + dy
-                    if 0 <= x < n and 0<= y <m and image[x][y] == original:
-                        q.append((x,y))
+        def dfs(i,j):
+            if i<0 or i>=n or j<0 or j>=m:
+                return 
+            if image[i][j] != original:
+                return 
+            image[i][j] = color
+            image[i][j] = color
+            dfs(i+1,j)
+            dfs(i,j+1)
+            dfs(i-1,j)
+            dfs(i,j-1)
+
+        dfs(sr,sc)
         return image
