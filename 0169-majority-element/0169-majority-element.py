@@ -1,4 +1,13 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        nums.sort()
-        return nums[len(nums)//2]
+        candidate = float('-inf')
+        cnt = 0
+        for num in nums:
+            if cnt == 0:
+                candidate = num
+                cnt += 1
+            elif candidate == num:
+                cnt += 1
+            else:
+                cnt -= 1
+        return candidate
