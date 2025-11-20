@@ -54,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0900-reordered-power-of-2) |
@@ -123,6 +125,7 @@
 | [0152-maximum-product-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0204-count-primes) |
@@ -177,6 +180,7 @@
 | [0056-merge-intervals](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0242-valid-anagram) |
@@ -276,6 +280,7 @@
 | [0053-maximum-subarray](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hello-mr-vishu/LeetTrack/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
